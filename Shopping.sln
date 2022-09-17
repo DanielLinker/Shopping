@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping", "Shopping\Shopping.csproj", "{398DEE55-93E3-4BF9-B5F2-FBCBBD200DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398DEE55-93E3-4BF9-B5F2-FBCBBD200DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398DEE55-93E3-4BF9-B5F2-FBCBBD200DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398DEE55-93E3-4BF9-B5F2-FBCBBD200DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398DEE55-93E3-4BF9-B5F2-FBCBBD200DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
